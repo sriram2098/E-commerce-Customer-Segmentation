@@ -58,6 +58,6 @@ customers have searched them.
 
 ![image](https://user-images.githubusercontent.com/121713702/235876311-ef922648-1465-4f2f-9992-7b6b416a3027.png)
 
-- Finally I got the conclusion ([Refer attached python notebook](https://github.com/IamJafar/E-Commerce-Customer-Segmentation/blob/main/Final_Project.ipynb)) by analyzing each clusters.
+- Finally I got the conclusion ([Refer attached python notebook](E_com_cust_seg.ipynb)) by analyzing each clusters.
 
 
